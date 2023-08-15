@@ -1,0 +1,13 @@
+# Importing pytorch packages
+import torch
+from torch import nn
+import torch.optim as optim
+
+import torchvision
+from torchvision import datasets, transforms
+
+import numpy as np
+import gensim
+
+# Matplotlib is used for plotting graphs
+import matplotlib.pyplot as plt
